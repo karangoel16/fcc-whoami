@@ -1,0 +1,15 @@
+{
+  "name": "fcc-code-whoami",
+  "version": "1.0.0",
+  "description": "This is api for freecodecamp whoami",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Karan Goel",
+  "license": "ISC"
+}
