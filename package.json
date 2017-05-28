@@ -4,7 +4,8 @@
   "description": "This is api for freecodecamp whoami",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "useragent": "^2.1.13"
   },
   "devDependencies": {},
   "scripts": {
